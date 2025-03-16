@@ -11,10 +11,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-<div>
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaomello10&layout=compact&)
- </div>
  
 <br>
  
